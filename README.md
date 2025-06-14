@@ -26,7 +26,6 @@
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -38,7 +37,6 @@
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
 ## 📫 Connect with me
 
 <p align="center">
@@ -57,8 +55,6 @@
 </p>
 
 ---
-
-<!-- ==================== FUN GIF ==================== -->
 ## 🎬 Currently Watching
 
 <p align="center">
