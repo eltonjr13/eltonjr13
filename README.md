@@ -40,7 +40,7 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://discord.gg/641077774752415765" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:eltonjr_bn2@hotmail.com">
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
+  
 ---
 ## 🎬 Currently Watching
 
