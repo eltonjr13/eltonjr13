@@ -34,8 +34,8 @@ Here you’ll find projects that mix **creativity with code**, from **SaaS power
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-eltonjr13&show_icons=true&theme=radical)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltonjr13&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonjr13&layout=compact&theme=radical)  
 
 </div>
