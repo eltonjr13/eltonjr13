@@ -1,67 +1,51 @@
-<h1 align="center">
-  🔧 Hello World!  
-  <br>
-  I'm <strong>Elton Jr</strong>,  
-  <br>
-  <sub>Back-end Developer</sub>
-</h1>
+# 👋 Olá, eu sou o Elton Lopes Pereira Junior  
 
-<p align="center">
-  <a href="https://github.com/eltonjr13">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=eltonjr13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-      width="320"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/eltonjr13">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonjr13&layout=compact&langs_count=7&theme=dracula"
-      alt="Top Languages"
-      width="320"
-    />
-  </a>
-</p>
+Bem-vindo ao meu perfil do GitHub!  
+Sou apaixonado por **tecnologia, IA, automação e desenvolvimento de software**. Aqui você vai encontrar projetos que unem **criatividade e código**, explorando desde **SaaS com inteligência artificial** até soluções práticas para o dia a dia.  
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" />
-  <img alt="React"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"              width="40" height="40" />
-  <img alt="HTML5"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"            width="40" height="40" />
-  <img alt="CSS3"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"              width="40" height="40" />
-</p>
+## 🚀 Sobre mim
+- 💻 Desenvolvedor focado em **SaaS, IA e automações**  
+- 📈 Interesse em **marketing digital e escalabilidade de negócios**  
+- ⚙️ Experiência com **Next.js, Node.js, Python e Firebase**  
+- 🤖 Criador de **agentes inteligentes e soluções baseadas em IA**  
+- 🌎 Explorando o poder de **automações e negócios digitais globais**  
 
 ---
 
-## 📫 Connect with me
-
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:eltonjr_bn2@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/elton19jr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/elton-junior-7a02922b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🛠️ Tecnologias & Ferramentas
+<div align="center">
   
----
-## 🎬 Currently Watching
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)  
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)  
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)  
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)  
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)  
 
-<p align="center">
-  <img
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGM2dnhkczhheW9laHphM3ZjeHYzcWdhYWtmMDZwdGl5aDFpajgzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/huAqJiUKwDATm/giphy.webp"
-    alt="Fun Gif"
-    width="500"
-    style="border-radius: 12px;"
-  />
-</p>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- 📸 [Instagram](https://www.instagram.com/seu-usuario)  
+- 🐦 [Twitter/X](https://x.com/seu-usuario)  
+
+---
+
+💡 “Construindo hoje as soluções que vão automatizar o amanhã.”  
