@@ -1,20 +1,21 @@
-# 👋 Olá, eu sou o Elton Lopes Pereira Junior  
+# 👋 Hi, I'm Elton Lopes Pereira Junior  
 
-Bem-vindo ao meu perfil do GitHub!  
-Sou apaixonado por **tecnologia, IA, automação e desenvolvimento de software**. Aqui você vai encontrar projetos que unem **criatividade e código**, explorando desde **SaaS com inteligência artificial** até soluções práticas para o dia a dia.  
-
----
-
-## 🚀 Sobre mim
-- 💻 Desenvolvedor focado em **SaaS, IA e automações**  
-- 📈 Interesse em **marketing digital e escalabilidade de negócios**  
-- ⚙️ Experiência com **Next.js, Node.js, Python e Firebase**  
-- 🤖 Criador de **agentes inteligentes e soluções baseadas em IA**  
-- 🌎 Explorando o poder de **automações e negócios digitais globais**  
+Welcome to my GitHub profile!  
+I'm passionate about **technology, AI, automation, and software development**.  
+Here you’ll find projects that mix **creativity with code**, from **SaaS powered by AI** to practical solutions for everyday challenges.  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 About Me
+- 💻 Developer focused on **SaaS, AI, and automation**  
+- 📈 Strong interest in **digital marketing & scalable businesses**  
+- ⚙️ Experience with **Next.js, Node.js, Python, and Firebase**  
+- 🤖 Creator of **intelligent agents and AI-driven solutions**  
+- 🌎 Exploring the power of **automation and global digital products**  
+
+---
+
+## 🛠️ Tech Stack
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)  
@@ -31,21 +32,21 @@ Sou apaixonado por **tecnologia, IA, automação e desenvolvimento de software**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <div align="center">
   
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- 📸 [Instagram](https://www.instagram.com/seu-usuario)  
-- 🐦 [Twitter/X](https://x.com/seu-usuario)  
+## 🌐 Connect with Me
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/elton-junior-7a02922b0/))  
+- 📸 [Instagram](https://www.instagram.com/elton19jr)  
+- 🐦 [Twitter/X](https://x.com/eltonjr16)  
 
 ---
 
-💡 “Construindo hoje as soluções que vão automatizar o amanhã.”  
+💡 *“Building today the solutions that will automate tomorrow.”*  
