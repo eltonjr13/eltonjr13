@@ -35,15 +35,15 @@ Here you’ll find projects that mix **creativity with code**, from **SaaS power
 ## 📊 GitHub Stats
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-eltonjr13&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonjr13&layout=compact&theme=radical)  
 
 </div>
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/elton-junior-7a02922b0/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/elton-junior-7a02922b0/)) 
 - 📸 [Instagram](https://www.instagram.com/elton19jr)  
 - 🐦 [Twitter/X](https://x.com/eltonjr16)  
 
