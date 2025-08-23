@@ -39,7 +39,6 @@ Here you’ll find projects that mix **creativity with code**, from **SaaS power
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonjr13&layout=compact&theme=radical)  
 
 </div>
-
 ---
 
 ## 🌐 Connect with Me
@@ -48,5 +47,4 @@ Here you’ll find projects that mix **creativity with code**, from **SaaS power
 - 🐦 [Twitter/X](https://x.com/eltonjr16)  
 
 ---
-
 💡 *“Building today the solutions that will automate tomorrow.”*  
