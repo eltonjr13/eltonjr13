@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elton Lopes Pereira Junior  
+# 👋 Hi, I'm Elton Junior  
 
 Welcome to my GitHub profile!  
 I'm passionate about **technology, AI, automation, and software development**.  
