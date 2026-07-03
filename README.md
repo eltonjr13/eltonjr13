@@ -9,11 +9,9 @@ I like turning ideas into real digital products with clean code, scalable archit
 ## 🚀 About Me
 
 - 💻 Full Stack Developer
-- 🧠 Building SaaS and Micro SaaS products
 - 🤖 Working with AI-powered applications and automation
 - ⚙️ Experience with APIs, dashboards, authentication, payments, and webhooks
 - 📈 Background in digital marketing, product strategy, and online business
-- 🎨 Interested in clean UI/UX, branding, and high-converting web experiences
 
 ---
 
@@ -73,8 +71,6 @@ I like turning ideas into real digital products with clean code, scalable archit
 - Data processing automation
 
 ### Product & Business
-- SaaS product planning
-- Micro SaaS strategy
 - Payment flows
 - Stripe checkout
 - Digital product funnels
